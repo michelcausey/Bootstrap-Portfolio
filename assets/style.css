@@ -1,0 +1,40 @@
+.container {
+    margin: 20px auto 20px auto;
+}
+
+#hat-picture {
+    height: 25%;
+    width: 25%;
+    margin: 10px;
+    float: left;
+}
+
+#jumbo {
+    color: #4A235A;
+    background-color: #DAF7A6;
+}
+
+#nav {
+    padding: 20px;
+    background-color: #82E0AA;
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+    background-color: #82E0AA;
+    margin-bottom: 0px;
+}
+
+#contact-form {
+    background-color: #DAF7A6;
+    padding: 20px;
+    border: solid #FF5733;
+}
+
+#carousel {
+    background-color: white;
+    color: #4A235A;
+    text-align: center;
+}
