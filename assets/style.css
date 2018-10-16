@@ -1,3 +1,12 @@
+footer {
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+    background-color: #82E0AA;
+    margin-bottom: 0px;
+    font-family: 'Neucha', cursive;
+}
+
 .container {
     margin: 20px auto 20px auto;
 }
@@ -5,36 +14,69 @@
 #hat-picture {
     height: 25%;
     width: 25%;
-    margin: 10px;
+    margin: 20px;
     float: left;
+    padding: 10px;
+    background-color: whitesmoke;
 }
 
 #jumbo {
     color: #4A235A;
     background-color: #DAF7A6;
+    font-family: 'Neucha', cursive;
+    font-size: 25px;
 }
 
 #nav {
     padding: 20px;
     background-color: #82E0AA;
-}
-
-footer {
-    width: 100%;
-    text-align: center;
-    padding: 20px;
-    background-color: #82E0AA;
-    margin-bottom: 0px;
+    font-family: 'Neucha', cursive;
 }
 
 #contact-form {
     background-color: #DAF7A6;
     padding: 20px;
     border: solid #FF5733;
+    font-family: 'Neucha', cursive;
+    font-size: 15px;
+    color: #FF5733;
 }
 
 #carousel {
     background-color: white;
-    color: #4A235A;
+    color: #FF5733;
     text-align: center;
+}
+
+#header-name {
+    font-family: 'Cabin Sketch', cursive;
+}
+
+#logo {
+    padding: 2px;
+    background-color: #C70039;
+}
+
+#contact-me {
+    font-family: 'Cabin Sketch', cursive;
+    color: #4A235A;
+}
+
+#contact-submit {
+    background-color: #82E0C9; 
+    border-color: #4A235A;
+    color: #FF5733;
+}
+
+.portfolio-title {
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 35px;
+    color: #FF5733;
+}
+
+.portfolio-links {
+    font-family: 'Neucha', cursive;
+    color: #C70039;
+    font-size: 17px;
+
 }
