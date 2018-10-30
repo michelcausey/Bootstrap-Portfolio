@@ -9,10 +9,16 @@ footer {
 
 p {
     font-size: 25px;
+    color: #4A235A;
+
 }
 
 a {
     color: #C70039;
+}
+
+h3 {
+    text-align: center;
 }
 
 .container {
@@ -28,12 +34,38 @@ a {
     background-color: whitesmoke;
 }
 
+#jake-picture {
+    height: 25%;
+    margin: 20px;
+    padding: 10px;
+    background-color: whitesmoke;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#headshot {
+    height: 200px;
+    width: 150px;
+    margin: 20px;
+    padding: 10px;
+    background-color: whitesmoke;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+
+}
+
 #jumbo {
-    color: #4A235A;
-    background-color: #DAF7A6;
+    color: #C70039;
+    background-color: #CCFFFF;
     font-family: 'Neucha', cursive;
     font-size: 25px;
 }
+
+
 
 #nav {
     padding: 20px;
@@ -43,7 +75,7 @@ a {
 }
 
 #contact-me {
-    background-color: #DAF7A6;
+    background-color: #CCFFFF;
     padding: 20px;
     font-family: 'Neucha', cursive;
 }
@@ -68,6 +100,12 @@ a {
     background-color: #C70039;
 }
 
+#logo-text {
+    text-align: center;
+    color: #4A235A;
+    font-size: 40px;
+}
+
 #contact-me {
     font-family: 'Cabin Sketch', cursive;
     color: #4A235A;
@@ -83,6 +121,11 @@ a {
     font-family: 'Cabin Sketch', cursive;
     font-size: 35px;
     color: #FF5733;
+}
+
+#portfolio-link {
+    text-align: center;
+    color: #C70039;
 }
 
 #toggler {
