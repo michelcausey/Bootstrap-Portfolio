@@ -11,6 +11,10 @@ p {
     font-size: 25px;
 }
 
+a {
+    color: #C70039;
+}
+
 .container {
     margin: 20px auto 20px auto;
 }
@@ -34,16 +38,14 @@ p {
 #nav {
     padding: 20px;
     background-color: #82E0AA;
-    font-family: 'Neucha', cursive;
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 20px;
 }
 
-#contact-form {
+#contact-me {
     background-color: #DAF7A6;
     padding: 20px;
-    border: solid #FF5733;
     font-family: 'Neucha', cursive;
-    font-size: 15px;
-    color: #C70039;
 }
 
 #carousel {
@@ -54,6 +56,10 @@ p {
 }
 
 #header-name {
+    font-family: 'Cabin Sketch', cursive;
+}
+
+#header-contact {
     font-family: 'Cabin Sketch', cursive;
 }
 
@@ -77,13 +83,6 @@ p {
     font-family: 'Cabin Sketch', cursive;
     font-size: 35px;
     color: #FF5733;
-}
-
-.portfolio-links {
-    font-family: 'Neucha', cursive;
-    color: #C70039;
-    font-size: 17px;
-
 }
 
 #toggler {
