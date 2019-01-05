@@ -2,19 +2,19 @@ footer {
     width: 100%;
     text-align: center;
     padding: 20px;
-    background-color: #82E0AA;
+    background-color: #999999;
     margin-bottom: 0px;
-    font-family: 'Neucha', cursive;
+    font-family: 'Anton', sans-serif;
 }
 
 p {
-    font-size: 25px;
-    color: #4A235A;
+    font-size: 20px;
+    color: #8b1c62;
 
 }
 
 a {
-    color: #C70039;
+    color: #8b1c62;
 }
 
 h3 {
@@ -59,9 +59,9 @@ h3 {
 }
 
 #jumbo {
-    color: #C70039;
-    background-color: #CCFFFF;
-    font-family: 'Neucha', cursive;
+    color: #8b1c62;
+    background-color: #f9f9f6;
+    font-family: 'Anton', sans-serif;
     font-size: 25px;
 }
 
@@ -69,65 +69,66 @@ h3 {
 
 #nav {
     padding: 20px;
-    background-color: #82E0AA;
+    background-color: #ffc100;
     font-family: 'Cabin Sketch', cursive;
     font-size: 20px;
 }
 
 #contact-me {
-    background-color: #CCFFFF;
+    background-color: #f9f9f6;
     padding: 20px;
-    font-family: 'Neucha', cursive;
+    font-family: 'Anton', sans-serif;
 }
 
 #carousel {
     background-color: #d2d4c0;
-    color: #FF5733;
+    color: #8b1c62;
     text-align: center;
     font-size: 30px;
 }
 
 #header-name {
-    font-family: 'Cabin Sketch', cursive;
+    font-family: 'ZCOOL KuaiLe', cursive;
 }
 
 #header-contact {
-    font-family: 'Cabin Sketch', cursive;
+    font-family: 'ZCOOL KuaiLe', cursive;
 }
 
 #logo {
     padding: 2px;
-    background-color: #C70039;
+    background-color: #8b1c62;
 }
 
 #logo-text {
     text-align: center;
-    color: #4A235A;
+    color: #C5F0CA;
     font-size: 40px;
+    font-family: 'ZCOOL KuaiLe', cursive;
 }
 
 #contact-me {
-    font-family: 'Cabin Sketch', cursive;
-    color: #4A235A;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    color: #8b1c62;
 }
 
 #contact-submit {
     background-color: #82E0C9; 
-    border-color: #4A235A;
-    color: #FF5733;
+    border-color: #8b1c62;
+    color: #8b1c62;
 }
 
 .portfolio-title {
-    font-family: 'Cabin Sketch', cursive;
+    font-family: 'ZCOOL KuaiLe', cursive;
     font-size: 35px;
-    color: #FF5733;
+    color: #8b1c62;
 }
 
 #portfolio-link {
     text-align: center;
-    color: #C70039;
+    color: #8b1c62;
 }
 
 #toggler {
-    background-color: #99FFCC;
+    background-color: #8b1c62;
 }
