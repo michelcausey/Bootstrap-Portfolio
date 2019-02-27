@@ -1,4 +1,4 @@
-footer {
+/* footer {
     width: 100%;
     text-align: center;
     padding: 20px;
@@ -131,4 +131,13 @@ h3 {
 
 #toggler {
     background-color: #8b1c62;
+} */
+
+#name {
+    padding: 10px;
+    background-color: darkslategray;
+    color: goldenrod;
+    margin-bottom: 0px;
+    width: 100%;
+    text-align: center;
 }
