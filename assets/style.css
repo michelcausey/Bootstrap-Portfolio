@@ -153,11 +153,13 @@ body {
 
 #portfolio-card {
     font-size: 16px;
+    font-family: 'Comfortaa', cursive;
 }
 
 #portfolio-text {
     font-size: 12px;
     font-style: italic;
+    font-family: 'Roboto', sans-serif;
 }
 
 #portfolio-button {
@@ -171,4 +173,33 @@ body {
     background-color: tomato;
     color: white;
     text-align: center;
+}
+
+#meet-me {
+    font-family: 'Comfortaa', cursive;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#left-container {
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+#right-container {
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+#work-experience {
+    font-family: 'Comfortaa', cursive;
+}
+
+#education {
+    font-family: 'Comfortaa', cursive;
+}
+
+#bootcamp-portfolio {
+    font-family: 'Comfortaa', cursive;
 }
