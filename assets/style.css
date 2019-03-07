@@ -150,3 +150,25 @@ body {
     height: 219px; 
     width: 301px;
 }
+
+#portfolio-card {
+    font-size: 16px;
+}
+
+#portfolio-text {
+    font-size: 12px;
+    font-style: italic;
+}
+
+#portfolio-button {
+    font-size: 12px;
+}
+
+#resume {
+    font-size: 12px;
+    font-style: italic;
+    padding: 10px;
+    background-color: tomato;
+    color: white;
+    text-align: center;
+}
