@@ -141,3 +141,12 @@ h3 {
     width: 100%;
     text-align: center;
 }
+
+body {
+    background-image: url(./images/morocco/morocco.png)
+}
+
+#portfolio-image {
+    height: 219px; 
+    width: 301px;
+}
