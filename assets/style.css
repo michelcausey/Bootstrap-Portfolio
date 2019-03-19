@@ -179,6 +179,10 @@ body {
     font-family: 'Comfortaa', cursive;
     font-size: 40px;
     font-weight: bold;
+    text-shadow: 1px 1px tomato,
+                 2px 2px grey,
+                 3px 3px tomato,
+                 4px 4px tomato;
 }
 
 #left-container {
