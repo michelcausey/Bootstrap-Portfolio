@@ -149,6 +149,7 @@ body {
 #portfolio-image {
     height: 219px; 
     width: 301px;
+    box-shadow: 4px 4px 4px  black
 }
 
 #portfolio-card {
