@@ -147,8 +147,8 @@ body {
 }
 
 #portfolio-image {
-    height: 219px; 
-    width: 301px;
+    height: 50%; 
+    width: 50%;
     box-shadow: 4px 4px 4px  black
 }
 
